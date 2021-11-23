@@ -30,5 +30,4 @@ OR [post_hashtags] LIKE '%#crustsingapore%'
 OR [post_hashtags] LIKE '%#goodpeople%'
 OR [post_hashtags] LIKE '%#upcycle%'
 OR [post_hashtags] LIKE '%#foodphotography%'
---GROUP BY [segment_name]
 ORDER BY [post_likes] DESC
