@@ -10,7 +10,4 @@ WHERE [post_hashtags] LIKE '%surplusfood%'
 OR [post_hashtags] LIKE '%Courtauld2025%'
 OR [post_hashtags] LIKE '%christmasleftovers%'
 OR [post_hashtags] LIKE '%plantbased%'
---ORDER BY [post_like_count] DESC
 ORDER BY cast([post_retweet_count] as int) DESC --post_retweet_count may be more important to determine significance in this one
-
---IG might be a better tool to promote food surplus due to the small significance of these posts in TW
