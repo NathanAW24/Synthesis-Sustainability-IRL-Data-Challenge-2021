@@ -1,5 +1,5 @@
 /****** KEYWORDS
-['surplusfood', 'Courtauld2025', 'makegoodhappen', 'christmasleftovers', 'plantbased']
+['surplusfood', 'Courtauld2025', 'christmasleftovers', 'plantbased']
 
 ******/
 
