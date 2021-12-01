@@ -7,7 +7,7 @@ Contributors:
 Link to Challenge:
 https://www.sustainabilityirl.synthesis.partners/
 
-As part of the Data Science Challenge conducted by synthesis, we were given two main datasets which relates to sustainability. We chose a problem statement, "Perceptions of surplus food and barriers to consumption", and were tasked to tackle it using the data that was given to us. This repository contains what we did to the data and how we extract insights from it.
+As part of the Data Science Challenge conducted by Synthesis, we were given two main datasets which relates to sustainability. We chose a problem statement, "Perceptions of surplus food and barriers to consumption", and were tasked to tackle it using the data that was given to us. This repository contains what we did to the data and how we extract insights from it.
 
 We divided the challenge to three main parts:
 1. Initial Filtering
