@@ -1,4 +1,5 @@
 # Synthesis_SustainabilityDataChallenge_2021
+## Perceptions of Surplus Food and Barriers to Consumption
 
 Contributors:
 - Nathan Aldrich Wiryawan (@NathanAW24)
