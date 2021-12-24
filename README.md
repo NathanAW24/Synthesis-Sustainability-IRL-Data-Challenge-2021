@@ -15,7 +15,7 @@ We divided the challenge to three main parts:
    - Finding hashtags that are significant using important keyword(s) filtering.
 2. SQL Filtering
    - Filtered the initial data on the whole table based on the hashtags obtained previously to get a more unbiased result.
-   - As SQL is faster than python, this process is important because it optmizes the required computation time.
+   - As SQL is faster than python, this process becomes important because it optmizes the required computation time.
 3. Data Extraction and Sentiment Analysis
    - Using the filtered SQL query on python to get the top data.
    - Apply sentiment analysis to get the polarity and subjectivity of each rows.
