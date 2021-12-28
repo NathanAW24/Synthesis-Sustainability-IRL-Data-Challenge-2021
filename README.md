@@ -2,8 +2,8 @@
 ## Perceptions of Surplus Food and Barriers to Consumption
 
 Contributors:
-- Nathan Aldrich Wiryawan (@NathanAW24)
-- Sean Phay Wei Xiang (@Sean2309)
+- Nathan Aldrich Wiryawan (https://github.com/NathanAW24)
+- Sean Phay Wei Xiang (https://github.com/Sean2309)
 
 Link to Challenge:
 https://www.sustainabilityirl.synthesis.partners/
