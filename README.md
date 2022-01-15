@@ -5,6 +5,15 @@ Contributors:
 - Nathan Aldrich Wiryawan (https://github.com/NathanAW24)
 - Sean Phay Wei Xiang (https://github.com/Sean2309)
 
+Python Modules Required:
+- Pandas
+- Matplotlib
+- Pyodbc
+- Configparser
+- Numpy
+- Spacy
+- Seaborn
+
 Link to Challenge:
 https://www.sustainabilityirl.synthesis.partners/
 

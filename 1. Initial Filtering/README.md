@@ -1,5 +1,9 @@
 # Initial Filtering
 
+Python Modules Required:
+- Pandas
+- Matplotlib
+
 Data source is given in the file "XDS Sustainability IRL Event Data x TW Posts x P1Y.parquet" and "XDS Sustainability IRL Event Data x IG Posts x P5Y.parquet".
 
 The goal in the first part is getting the important hashtags from both twitter and instagram data. To do that, we need to pick important keywords to as the first layer of filter to the post_captions and post_content column in the instagram and twitter data respectively. Then, we select the hashtags that appears the most frequently out of all the available ones. Afterwards, we store those hashtags in two other external files, one containing instagram hashtags and the other containing twitter hashtags.
