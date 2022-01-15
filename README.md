@@ -8,7 +8,7 @@ Contributors:
 Link to Challenge:
 https://www.sustainabilityirl.synthesis.partners/
 
-Our Result:
+Our Infographic Result:
 https://static1.squarespace.com/static/60754f2bbe89bf2527b7d57c/t/61a868f405e8c4433c163dea/1638426869609/nathan-sean.pdf
 
 As part of the Data Science Challenge conducted by Synthesis, we were given two main datasets which relates to sustainability. We chose a problem statement, "Perceptions of surplus food and barriers to consumption", and were tasked to tackle it using the data that was given to us in parquet format. This repository contains what we did to the data and how we extract insights from it.
